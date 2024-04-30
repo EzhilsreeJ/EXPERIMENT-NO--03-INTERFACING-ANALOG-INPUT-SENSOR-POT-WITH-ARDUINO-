@@ -1,10 +1,5 @@
 ## EXPERIMENT-NO--02--INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
 
-## DATE : 22/02/2024
-## NAME : EZHIL SREE J																			             
-## ROLLNUMBER : 212223230056
-## DEPARTMENT : AIDS
-
 
 ## AIM:  
 To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
